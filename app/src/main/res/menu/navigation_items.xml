@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item android:id="@+id/action_list"
+    android:title="@string/list"
+    android:icon="@drawable/ic_insert_invitation_grey_24dp"/>
+    <item android:id="@+id/action_map"
+        android:title="@string/map"
+        android:icon="@drawable/ic_map_grey_24dp"/>
+    <item android:id="@+id/action_menu"
+        android:title="@string/menu"
+        android:icon="@drawable/ic_menu_grey_24dp"/>
+
+</menu>
